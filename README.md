@@ -1,1 +1,9 @@
-# Automated-Market-Expansion-Analyst_HiDevs
+# Automated Market Expansion Analyst
+
+This project is automatically generated.
+
+## Installation
+
+```sh
+pip install -r requirements.txt
+```
